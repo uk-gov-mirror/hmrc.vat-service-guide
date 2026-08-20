@@ -71,7 +71,7 @@ We recommend that:
 
 HMRC Assist does not guarantee that a customer’s VAT return is accurate, even if they do not receive any feedback messages.
 
-Customers are still responsible for making sure that the information that they provide is correct.
+Customers are still responsible for making sure that the information that they provide is correct and that the return is filed on time.
 
 When messages are received from HMRC Assist:
 
